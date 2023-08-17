@@ -6,9 +6,7 @@ book:
   author: "Bruno Rodrigues"
   date: "2023-06-28"
   search: true
-  repo-url: "https://github.com/b-rodrigues/kdp_quarto"
   repo-actions: [edit]
-  sharing: [twitter, facebook]
   downloads: [pdf, epub]
   chapters:
     - index.qmd
@@ -29,12 +27,6 @@ format:
       en-GB
     date:
       "2023-06-20"
-    css:
-      epub.css
-  html:
-    theme:
-      light: flatly
-      dark: solar
     css:
       epub.css
   pdf:
